@@ -11,4 +11,4 @@ console.log(charcod(65,66))
 console.log(charcod(66))
 console.log(charcod(67))
 
-// Este metodo devuelve el caracter Unicode indicando la posicion con un nro. 
+// Este metodo convierte valores unicode en caracteres 

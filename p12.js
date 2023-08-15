@@ -3,8 +3,10 @@
 
 // Las cadenas tienen un índice cero: el índice del primer carácter de una cadena es 0 y el índice del último carácter de una cadena es la longitud de la cadena menos 1.
 
-const anyString = "Brave, TBrave New World";
+const anyString = "Brave, Brave New World";
 
 console.log(anyString.indexOf("Brave")); // 0
 console.log(anyString.lastIndexOf("Brave")); // 7
+
+// Devuelve la posición de la última ocurrencia del carácter pasado como parámetro
 

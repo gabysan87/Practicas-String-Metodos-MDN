@@ -1,5 +1,5 @@
 // El toLowerCase()
-// método de Stringvalores devuelve esta cadena convertida a minúsculas.
+// método de String valores devuelve esta cadena convertida a minúsculas.
 
 const sentence = 'The Quick brown fox jumps over the lazy Dog.';
 

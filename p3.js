@@ -11,9 +11,13 @@ const metod = (x) => {
     return x.charCodeAt("3")
 }
 
+console.log(metod("NabS"))
+console.log(metod("Aadas"))
 console.log(metod("Nab"))
-console.log(metod("AaSdas"))
 
 // El charCodeAt()método de Stringvalores devuelve un número entero entre 0y 65535que representa la unidad de código UTF-16 en el índice dado.
+// método devuelve el Unicode del carácter en un índice especificado en una cadena
+
+// El método devuelve un código UTF-16 (un número entero entre 0 y 65535).
 
 // Este metodo comienza su indice en 0

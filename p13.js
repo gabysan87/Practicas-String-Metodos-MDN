@@ -20,8 +20,8 @@ return items.sort((a, b) => a.localeCompare(b, "fr", { ignorePunctuation: true }
 
 
 // Descripción
-// Devuelve un número entero que indica si referenceStrviene antes, después o es equivalente a compareString.
+// Devuelve un número entero que indica si reference Str viene antes, después o es equivalente a compareString.
 
-// Negativo cuando referenceStrocurre antes compareString
-// Positivo cuando referenceStrocurre después compareString
-// Devuelve 0si son equivalentes
+// -1 si la cadena se ordena antes de compareString
+//  0 si las dos cadenas son iguales
+//  1 si la cadena se ordena después de compareString

@@ -8,3 +8,6 @@ console.log(stringObj);
 
 console.log(stringObj.valueOf());
 // Expected output: "foo"
+
+// Resumen 
+// devuelve el valor primitivo de una cadena.

@@ -14,3 +14,6 @@ console.log(str.slice(-4));
 
 console.log(str.slice(-9, -3));
 // Expected output: "lazy"
+
+// Resumen
+// extrae una parte de una cadena, devuelve la parte extraída en una nueva cadena.

@@ -4,3 +4,5 @@
 const mood = 'Happy! ';
 
 console.log(`I feel ${mood.repeat(5)}`);
+
+// devuelve una cadena con un número de copias de una cadena.

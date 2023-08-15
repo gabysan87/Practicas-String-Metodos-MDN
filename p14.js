@@ -7,3 +7,5 @@ const found = paragraph.match(regex);
 
 console.log(found);
 // Expected output: Array ["T", "I"]
+
+// método compara una cadena con una expresión regular

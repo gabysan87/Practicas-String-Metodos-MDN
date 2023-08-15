@@ -1,6 +1,7 @@
 // Método `charAt`:
 
 // El método charAt() de String devuelve en un nuevo String el carácter UTF-16 de una cadena.
+// método devuelve el carácter en un índice especificado (posición) en una cadena
 
 
 const element = (n,x) => {

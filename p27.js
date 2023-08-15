@@ -8,3 +8,5 @@ console.log(`EN-US: ${dotted.toLocaleLowerCase('en-US')}`);
 
 console.log(`TR: ${dotted.toLocaleLowerCase('tr')}`);
 // Expected output: "istanbul"
+
+// toLocaleLowerCase()método convierte una cadena en letras minúsculas, utilizando la configuración regional actual.

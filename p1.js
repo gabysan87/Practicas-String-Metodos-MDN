@@ -16,5 +16,6 @@ console.log(string("casa, mesa, balon", 0 ))
 // Interpretación
 // Método `at`
 // Este método permite números enteros positivos y negativos. Los enteros negativos cuentan hacia atrás desde el último carácter de cadena.
+// proporciona una función que devuelve el último carácter encontrado en una cadena especificada.
 
 // Este metodo comienza su indice en 0

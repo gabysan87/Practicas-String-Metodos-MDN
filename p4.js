@@ -8,7 +8,7 @@
 // Salida: El valor del punto de código Unicode del carácter en la posición indicada o undefined si el índice está fuera del rango.
 
 const icons = 'ABC';
-console.log(icons.codePointAt(1));
+console.log(icons.codePointAt(2));
 
 
 const code = "\uD800\uDC00"
@@ -19,11 +19,12 @@ console.log(codigo.codePointAt(0))
 
 
 const unicode = (x) => {
-    return x.codePointAt(0)
+    return x.codePointAt(3)
 }
 
 console.log(unicode("Gaby"))
 
 
+// El codePointAt()método devuelve el valor Unicode en un índice (posición) en una cadena.
 
-// Este metodo comienza su indice en 0
+// El índice de la primera posición es 0, el segundo es 1

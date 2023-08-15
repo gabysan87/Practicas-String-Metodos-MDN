@@ -8,3 +8,6 @@ console.log(greeting);
 
 console.log(greeting.trimStart());
 // Expected output: "Hello world!   ";
+
+// Resumen 
+// elimina los espacios en blanco desde el principio de una cadena.

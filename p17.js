@@ -12,3 +12,5 @@ const maskedNumber = last4Digits.padStart(fullNumber.length, '-');
 
 console.log(maskedNumber);
 // Expected output: "************5581"
+
+// rellena una cadena desde el principio, hasta que alcanza una longitud determinada.

@@ -8,3 +8,5 @@ console.log(city.toLocaleUpperCase('en-US'));
 
 console.log(city.toLocaleUpperCase('TR'));
 // Expected output: "İSTANBUL"
+
+// toLocaleUpperCase()método convierte una cadena en letras mayúsculas, utilizando la configuración regional actual
